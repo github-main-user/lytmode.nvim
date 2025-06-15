@@ -21,7 +21,7 @@ Tested plugins:
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)  
 - [rainbow-delimiters](https://gitlab.com/HiPhish/rainbow-delimiters.nvim)
 
-Other plugins that _should_ work (but I haven’t tested them):
+Other plugins that _should_ work (but I have not tested them):
 - [BarBar](https://github.com/romgrk/barbar.nvim)
 - [BufferLine](https://github.com/akinsho/nvim-bufferline.lua)
 - [Dashboard](https://github.com/glepnir/dashboard-nvim)
