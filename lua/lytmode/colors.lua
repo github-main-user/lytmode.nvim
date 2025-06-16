@@ -67,7 +67,6 @@ colors.get_colors = function()
         lytMediumBlue = '#0cc8f2', -- changed
         lytDisabledBlue = '#4f7984', -- changed
         lytGreen = '#1dc7a0', -- changed
-        lytBlueGreen = '#1dc7a0', -- changed
         lytLightGreen = '#B5CEA8',
         lytRed = "#fb5f8e", -- changed
         lytOrange = '#f8a257', -- changed
