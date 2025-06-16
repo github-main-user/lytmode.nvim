@@ -57,31 +57,31 @@ colors.get_colors = function()
         lytSuggestion = '#6A6A6A',
 
         -- Syntax colors
-        lytGray = '#7c849c',-- changed
-        lytViolet = '#b894ff', -- changed
-        lytLightViolet = '#c9b8ff', -- changed
-        lytBlue = '#38b4da', -- changed
-        lytLightBlue = '#71c2d4', -- changed
-        lytAccentBlue = '#0cc8f2', -- changed
+        lytGray = '#7c849c',
+        lytViolet = '#b894ff', 
+        lytLightViolet = '#c9b8ff', 
+        lytBlue = '#38b4da', 
+        lytLightBlue = '#71c2d4', 
+        lytAccentBlue = '#0cc8f2', 
         lytDarkBlue = '#223E55',
-        lytMediumBlue = '#0cc8f2', -- changed
-        lytDisabledBlue = '#4f7984', -- changed
-        lytGreen = '#1dc7a0', -- changed
+        lytMediumBlue = '#0cc8f2', 
+        lytDisabledBlue = '#4f7984', 
+        lytGreen = '#1dc7a0', 
         lytLightGreen = '#B5CEA8',
-        lytRed = "#fb5f8e", -- changed
-        lytOrange = '#f8a257', -- changed
+        lytRed = "#fb5f8e", 
+        lytOrange = '#f8a257', 
         lytLightRed = '#D16969',
         lytYellowOrange = '#D7BA7D',
-        lytYellow = '#d7d583', -- changed
+        lytYellow = '#d7d583', 
         lytDarkYellow = '#FFD602',
-        lytPink = '#ff7fb6', -- changed
+        lytPink = '#ff7fb6', 
 
         -- Low contrast with default background
         lytDimHighlight = '#51504F',
     }
 
     -- Other ui specific colors
-    mycolors.lytUiBlue = '#38b4da' -- changed
+    mycolors.lytUiBlue = '#38b4da' 
     mycolors.lytUiOrange = '#f28b25'
     mycolors.lytPopupHighlightLightBlue = '#d7eafe'
 
