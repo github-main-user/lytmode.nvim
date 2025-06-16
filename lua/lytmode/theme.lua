@@ -141,8 +141,8 @@ theme.set_highlights = function(opts)
     hl(0, '@tag.attribute', { fg = c.lytLightBlue, bg = 'NONE' })
 
     hl(0, '@text', { fg = c.lytFront, bg = 'NONE' }) -- Legacy
-    hl(0, '@markup.strong', { fg = c.lytBlue, bold = true })
-    hl(0, '@markup.italic', { fg = c.lytFront, bg = 'NONE', italic = true })
+    hl(0, '@markup.strong', { fg = c.lytYellow, bold = true })
+    hl(0, '@markup.italic', { fg = c.lytLightViolet, bg = 'NONE', italic = true })
     hl(0, '@markup.underline', { fg = c.lytYellowOrange, bg = 'NONE', underline = true })
     hl(0, '@markup.strikethrough', { fg = c.lytFront, bg = 'NONE', strikethrough = true })
     hl(0, '@markup.heading', { fg = c.lytBlue, bold = true })
@@ -182,7 +182,7 @@ theme.set_highlights = function(opts)
     hl(0, '@decorator', { link = 'Identifier' })
 
     -- Markdown
-    hl(0, 'markdownBold', { fg = c.lytBlue, bold = true })
+    hl(0, 'markdownBold', { fg = c.lytYellow, bold = true })
     hl(0, 'markdownCode', { fg = c.lytOrange, bg = 'NONE' })
     hl(0, 'markdownRule', { fg = c.lytBlue, bold = true })
     hl(0, 'markdownCodeDelimiter', { fg = c.lytFront, bg = 'NONE' })
@@ -190,7 +190,7 @@ theme.set_highlights = function(opts)
     hl(0, 'markdownFootnote', { fg = c.lytOrange, bg = 'NONE' })
     hl(0, 'markdownFootnoteDefinition', { fg = c.lytOrange })
     hl(0, 'markdownUrl', { fg = c.lytFront, bg = 'NONE', underline = true })
-    hl(0, 'markdownLinkText', { fg = c.lytOrange })
+    hl(0, 'markdownLinkText', { fg = c.lytPink })
     hl(0, 'markdownEscape', { fg = c.lytOrange })
 
     -- Asciidoc
