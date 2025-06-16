@@ -3,7 +3,7 @@
 Inspired by [LYT-Mode](https://github.com/nickmilo/LYT-Mode) colorscheme for Obsidian.
 
 Just like the original LYT Mode, this theme **does not** separate colors into light and dark modes.
-It is not dark nor light, it is something between.
+It's not dark, and it's not light — it's something in between.
 
 
 ![Demo Screenshot](./demo.png)
@@ -12,16 +12,18 @@ It is not dark nor light, it is something between.
 
 This theme is based on [Mofiqul/vscode.nvim](https://github.com/Mofiqul/vscode.nvim), so **all languages and most common plugins should be supported**.
 
-This theme was primarily tested on **Python**🐍. But many other languages are supported.
+Primarily tested with **Python** 🐍, but many other languages work well too.
 
-Tested plugins:
+### ✅ Tested Plugins
+
 - [Telescope](https://github.com/nvim-telescope/telescope.nvim)  
 - [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)  
 - [LSP Config](https://github.com/neovim/nvim-lspconfig)  
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)  
 - [rainbow-delimiters](https://gitlab.com/HiPhish/rainbow-delimiters.nvim)
 
-Other plugins that _should_ work (but I have not tested them):
+### 🧪 Untested but likely compatible
+
 - [BarBar](https://github.com/romgrk/barbar.nvim)
 - [BufferLine](https://github.com/akinsho/nvim-bufferline.lua)
 - [Dashboard](https://github.com/glepnir/dashboard-nvim)
