@@ -1,4 +1,4 @@
-# LYT-Mode Nvim
+# lytmode.nvim
 
 Inspired by [LYT-Mode](https://github.com/nickmilo/LYT-Mode) colorscheme for Obsidian.
 
