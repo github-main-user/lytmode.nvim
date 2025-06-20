@@ -79,14 +79,14 @@ require('lytmode').setup({
 
     -- Override colors (see ./lua/lytmode/colors.lua)
     color_overrides = {
-        vscLineNumber = '#FFFFFF',
+        lytLineNumber = '#FFFFFF',
     },
 
     -- Override highlight groups (see ./lua/lytmode/theme.lua)
     group_overrides = {
         -- this supports the same val table as vim.api.nvim_set_hl
         -- use colors from this colorscheme by requiring lytmode.colors!
-        Cursor = { fg=c.vscDarkBlue, bg=c.lytLightGreen, bold=true },
+        Cursor = { fg=c.lytDarkBlue, bg=c.lytLightGreen, bold=true },
     }
 })
 ```
