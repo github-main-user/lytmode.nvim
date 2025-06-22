@@ -749,7 +749,7 @@ theme.set_highlights = function(opts)
     hl(0, 'MiniStatuslineFileinfo', { bg = c.lytLeftLight })
     hl(0, 'MiniStatuslineModeCommand', { fg = c.lytBack, bg = c.lytLightRed, bold = true })
     hl(0, 'MiniStatuslineModeInsert', { fg = c.lytBack, bg = c.lytLightBlue, bold = true })
-    hl(0, 'MiniStatuslineModeNormal', { fg = c.lytBack, bg = c.lytLightGreen, bold = true })
+    hl(0, 'MiniStatuslineModeNormal', { fg = c.lytBack, bg = c.lytYellow, bold = true })
     hl(0, 'MiniStatuslineModeReplace', { fg = c.lytBack, bg = c.lytYellowOrange, bold = true })
     hl(0, 'MiniStatuslineModeVisual', { fg = c.lytBack, bg = c.lytPink, bold = true })
 
