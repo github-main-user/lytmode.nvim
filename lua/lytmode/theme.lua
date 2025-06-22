@@ -440,7 +440,7 @@ theme.set_highlights = function(opts)
 
     -- SQL
     hl(0, 'sqlKeyword', { fg = c.lytPink, bg = 'NONE' })
-    hl(0, 'sqlFunction', { fg = c.lytYellowOrange, bg = 'NONE' })
+    hl(0, 'sqlFunction', { fg = c.lytYellow, bg = 'NONE' })
     hl(0, 'sqlOperator', { fg = c.lytPink, bg = 'NONE' })
 
     -- YAML
