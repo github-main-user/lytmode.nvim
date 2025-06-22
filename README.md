@@ -21,6 +21,7 @@ Primarily tested with **Python** 🐍, but many other languages work well too.
 - [LSP Config](https://github.com/neovim/nvim-lspconfig)  
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)  
 - [rainbow-delimiters](https://gitlab.com/HiPhish/rainbow-delimiters.nvim)
+- [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)
 
 ### 🧪 Untested but likely compatible
 
@@ -36,7 +37,6 @@ Primarily tested with **Python** 🐍, but many other languages work well too.
 - [NvimTree](https://github.com/kyazdani42/nvim-tree.lua)
 - [Trouble](https://github.com/folke/trouble.nvim)
 - [nvim-compe](https://github.com/hrsh7th/nvim-compe)
-- [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)
 - [vim-illuminate](https://github.com/RRethy/vim-illuminate)
 
 ## 📦 Installation
