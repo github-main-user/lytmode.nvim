@@ -6,7 +6,8 @@ Just like the original LYT Mode, this theme **does not** separate colors into li
 It's not dark, and it's not light — it's something in between.
 
 
-![Demo Screenshot](./demo.png)
+![Demo Screenshot](https://raw.githubusercontent.com/github-main-user/lytmode.nvim/main/demo.png)
+
 
 ## Supported Languages and Plugins
 
