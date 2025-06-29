@@ -23,6 +23,7 @@ Primarily tested with **Python** 🐍, but many other languages work well too.
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)  
 - [rainbow-delimiters](https://gitlab.com/HiPhish/rainbow-delimiters.nvim)
 - [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)
+- [vim-fugitive](https://github.com/tpope/vim-fugitive.git)
 
 ### 🧪 Untested but likely compatible
 
