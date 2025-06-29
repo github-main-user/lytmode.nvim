@@ -6,6 +6,7 @@ colors.get_colors = function()
         lytNone = 'NONE',
         lytFront = '#b9c3df',
         lytBack = '#2d3039',
+        lytBackDark = "#23242a",
 
         lytTabCurrent = '#2d3039',
         lytTabOther = '#2D2D2D',
