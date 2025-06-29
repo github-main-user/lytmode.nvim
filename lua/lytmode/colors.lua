@@ -77,11 +77,6 @@ colors.get_colors = function()
 
         -- Low contrast with default background
         lytDimHighlight = '#51504F',
-
-        -- Other ui specific colors
-        lytUiBlue = '#38b4da' ,
-        lytUiOrange = '#f28b25',
-        lytPopupHighlightLightBlue = '#d7eafe'
     }
 
     -- Extend the colors with overrides passed by `color_overrides`

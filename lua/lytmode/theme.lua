@@ -559,7 +559,7 @@ theme.set_highlights = function(opts)
     hl(0, 'CmpItemKindKeyword', { fg = c.lytFront, bg = 'NONE' })
     hl(0, 'CmpItemKindProperty', { fg = c.lytFront, bg = 'NONE' })
     hl(0, 'CmpItemKindUnit', { fg = c.lytFront, bg = 'NONE' })
-    hl(0, 'CmpItemKindConstructor', { fg = c.lytUiOrange, bg = 'NONE' })
+    hl(0, 'CmpItemKindConstructor', { fg = c.lytOrange, bg = 'NONE' })
     hl(0, 'CmpItemMenu', { fg = c.lytPopupFront, bg = 'NONE' })
     hl(0, 'CmpItemAbbr', { fg = c.lytFront, bg = 'NONE' })
     hl(0, 'CmpItemAbbrDeprecated', { fg = c.lytCursorDark, bg = c.lytPopupBack, strikethrough = true })
@@ -590,7 +590,7 @@ theme.set_highlights = function(opts)
     hl(0, 'BlinkCmpKindText', { fg = c.lytPopupFront, bg = 'NONE' })
     hl(0, 'BlinkCmpKindMethod', { fg = c.lytPink, bg = 'NONE' })
     hl(0, 'BlinkCmpKindFunction', { fg = c.lytPink, bg = 'NONE' })
-    hl(0, 'BlinkCmpKindConstructor', { fg = c.lytUiOrange, bg = 'NONE' })
+    hl(0, 'BlinkCmpKindConstructor', { fg = c.lytOrange, bg = 'NONE' })
     hl(0, 'BlinkCmpKindField', { link = '@variable.member' })
     hl(0, 'BlinkCmpKindVariable', { link = '@variable.member' })
     hl(0, 'BlinkCmpKindClass', { link = 'BlinkCmpKindConstructor' })
@@ -805,7 +805,7 @@ theme.set_highlights = function(opts)
 
     -- symbols-outline
     -- white fg and lualine blue bg
-    hl(0, 'FocusedSymbol', { fg = '#ffffff', bg = c.lytUiBlue })
+    hl(0, 'FocusedSymbol', { fg = '#ffffff', bg = c.lytBlue })
     hl(0, 'SymbolsOutlineConnector', { fg = c.lytLineNumber, bg = 'NONE' })
 end
 
