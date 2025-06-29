@@ -623,7 +623,7 @@ theme.set_highlights = function(opts)
     hl(0, 'BlinkCmpKindEvent', { fg = c.lytDarkYellow, bg = 'NONE' })
     hl(0, 'BlinkCmpKindOperator', { link = '@operator' })
     hl(0, 'BlinkCmpKindTypeParameter', { link = '@variable.parameter' })
-    hl(0, 'BlinkCmpKindCopilot', { fg = c.lytGreen })
+    hl(0, 'BlinkCmpKindCopilot', { fg = c.lytGreen, bg = 'NONE' })
 
     -- HiPhish/rainbow-delimiters.nvim
     hl(0, 'RainbowDelimiterRed', { fg = c.lytPink, bg = 'NONE' })
