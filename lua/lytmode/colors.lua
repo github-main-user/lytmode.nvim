@@ -6,7 +6,7 @@ colors.get_colors = function()
         lytNone = 'NONE',
         lytFront = '#b9c3df',
         lytBack = '#2d3039',
-        lytBackDark = "#23242a",
+        lytBackDark = '#23242a',
 
         lytTabCurrent = '#2d3039',
         lytTabOther = '#2D2D2D',
@@ -67,7 +67,7 @@ colors.get_colors = function()
         lytDarkBlue = '#223E55',
         lytDisabledBlue = '#4f7984', 
         lytGreen = '#1dc7a0', 
-        lytRed = "#fb5f8e", 
+        lytRed = '#fb5f8e', 
         lytOrange = '#f8a257', 
         lytLightRed = '#D16969',
         lytYellowOrange = '#D7BA7D',
