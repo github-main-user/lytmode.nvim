@@ -4,7 +4,7 @@ colors.get_colors = function()
 
     mycolors = {
         lytNone = 'NONE',
-        lytFront = '#b9c3df',
+        lytFront = '#c7cfe5',
         lytBack = '#2d3039',
         lytBackDark = '#23242a',
 
