@@ -17,7 +17,7 @@ colors.get_colors = function()
         lytLeftLight = '#636369',
 
         lytPopupFront = '#cfd2dd',
-        lytPopupBack = '#292b32', 
+        lytPopupBack = '#292b32',
         lytPopupHighlightBlue = '#343a4b',
         lytPopupHighlightGray = '#343B41',
 
@@ -36,8 +36,7 @@ colors.get_colors = function()
         -- lytDiffRedLightLight = '#FB0101',
         lytDiffGreenDark = '#373D29',
         lytDiffGreenLight = '#4B5632',
-        lytSearchCurrent = '#515c6a',
-        lytSearch = '#613315',
+        lytSearch = '#515c6a',
 
         lytGitAdded = '#81b88b',
         lytGitModified = '#e2c08d',
@@ -59,21 +58,21 @@ colors.get_colors = function()
 
         -- Syntax colors
         lytGray = '#7c849c',
-        lytViolet = '#b894ff', 
-        lytLightViolet = '#c9b8ff', 
-        lytBlue = '#38b4da', 
-        lytLightBlue = '#71c2d4', 
-        lytAccentBlue = '#0cc8f2', 
+        lytViolet = '#b894ff',
+        lytLightViolet = '#c9b8ff',
+        lytBlue = '#38b4da',
+        lytLightBlue = '#71c2d4',
+        lytAccentBlue = '#0cc8f2',
         lytDarkBlue = '#223E55',
-        lytDisabledBlue = '#4f7984', 
-        lytGreen = '#1dc7a0', 
-        lytRed = '#fb5f8e', 
-        lytOrange = '#f8a257', 
+        lytDisabledBlue = '#4f7984',
+        lytGreen = '#1dc7a0',
+        lytRed = '#fb5f8e',
+        lytOrange = '#f8a257',
         lytLightRed = '#D16969',
         lytYellowOrange = '#D7BA7D',
-        lytYellow = '#d7d583', 
+        lytYellow = '#d7d583',
         lytDarkYellow = '#FFD602',
-        lytPink = '#ff7fb6', 
+        lytPink = '#ff7fb6',
 
         -- Low contrast with default background
         lytDimHighlight = '#51504F',
