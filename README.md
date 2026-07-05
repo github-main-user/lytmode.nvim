@@ -88,7 +88,7 @@ require('lytmode').setup({
     group_overrides = {
         -- this supports the same val table as vim.api.nvim_set_hl
         -- use colors from this colorscheme by requiring lytmode.colors!
-        Cursor = { fg=c.lytDarkBlue, bg=c.lytLightGreen, bold=true },
+        Cursor = { fg=c.lytBack, bg=c.lytGreen, bold=true },
     }
 })
 ```
