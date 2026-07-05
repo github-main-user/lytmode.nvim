@@ -29,7 +29,7 @@ config.setup = function(user_opts)
 
     -- setting transparent to true removes the default background
     if config.opts.transparent then
-        config.opts.color_overrides.vscBack = 'NONE'
+        config.opts.color_overrides.lytBack = 'NONE'
     end
 end
 
